@@ -1,4 +1,4 @@
-# camilaAbraham_ingenio
+# camilaAbraham_ingenio (cambiar el titulo)
 ## Descripcion 
 laesperanza_ingenio.sql es una base de dato diseñada para gestionar el área del campo del ingenio La Esperanza, cuenta con el esquema relacional completo, las tablas necesarias, sus relaciones, claves primarias, claves foráneas y estructura normalizada. 
 
@@ -132,7 +132,7 @@ Además, el sistema sienta una base sólida para futuras mejoras o integración 
 Desarrollado por Camila Gaspar Abraham
 Año 2025
 
-
+## Catedra Base de Datos 2025
 
 
 
